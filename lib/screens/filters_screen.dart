@@ -30,6 +30,7 @@ class _FiltersScreenState extends State<FiltersScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+        //backgroundColor: Colors.teal.shade50,
         appBar: AppBar(
           title: Text(
             'Your Filters',
